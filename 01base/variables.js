@@ -13,3 +13,8 @@ console.table([account_id,
     accountEmail,
     accountPasword,
     accountCity,accountstate]);
+
+    /*
+    Prefer not to use var 
+    because of issue in block scope and functional scope
+    */ 
